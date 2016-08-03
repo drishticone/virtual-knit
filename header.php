@@ -8,13 +8,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="know abuot knit">
+    <meta name="author" content="ankit, vivek,mayank,ayush">
     <link rel="icon" href="../../favicon.ico">
 
     <title></title>
-
-    
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="static/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -76,34 +74,6 @@
         </div>
       </div>
     </nav>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
