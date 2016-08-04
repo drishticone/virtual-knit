@@ -13,47 +13,28 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-
     <title></title>
-
-    
-
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="static/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
-
 	<link href="static/css/style.css" rel="stylesheet">
-	
     <!-- Custom styles for this template -->
-
-
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="js/ie-emulation-modes-warning.js"></script>
-	
 	<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
-
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-	
-	
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-
-  <body>
-
+<body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -104,12 +85,10 @@
 	  <li class="item5"></li>
 	  <li class="item6"></li>
     </ol>
-
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-
       <div class="item active">
-       <img src="ramanujam.jpg" alt="ramanujam" width="460" height="345">
+       <img src="../static/img/ramanujam.jpg" alt="ramanujam" width="460" height="345">
         <div class="carousel-caption">
           <h3>Ramanujam Hostel</h3>
           <p>*Ramanujan is a huge hostel which is given to our final year students<br>
@@ -117,9 +96,8 @@
 		  *It had got a basketball court.</p>
         </div>
       </div>
-
       <div class="item">
-         <img src="aryabhatta.jpg" alt="aryabhatta" width="460" height="345">
+         <img src="../static/img/aryabhatta.jpg" alt="aryabhatta" width="460" height="345">
         <div class="carousel-caption">
           <h3>Aryabhatta Hostel</h3>
           <p>*This hostel is given to third year students<br>
@@ -128,9 +106,8 @@
 		  *2 seater rooms</p>
         </div>
       </div>
-	  
 	  <div class="item">
-        <img src="Kalaam.jpg" alt="Kalaam" width="460" height="345">
+        <img src="../static/img/Kalaam.jpg" alt="Kalaam" width="460" height="345">
         <div class="carousel-caption">
           <h3>Kalaam Hostel</h3>
           <p>*Kalaam is allotted to first year students<br>
@@ -138,9 +115,8 @@
 		  *well built infrastructure.</p>
         </div>
 		</div>
-    
       <div class="item">
-        <img src="new_vs.jpg" alt="new_vs" width="460" height="345">
+        <img src="../static/img/new_vs.jpg" alt="new_vs" width="460" height="345">
         <div class="carousel-caption">
           <h3>New VS Hostel</h3>
           <p>*New VS Hostel accomodate second year students.<br>
@@ -148,9 +124,8 @@
 		  *It is 4 seater </p>
         </div>
       </div>
-
       <div class="item">
-        <img src="old_vs.jpg" alt="old_vs" width="460" height="345">
+        <img src="../static/img/old_vs.jpg" alt="old_vs" width="460" height="345">
         <div class="carousel-caption">
           <h3>Old VS</h3>
           <p>*This hostel accomodate first year students <br>
@@ -159,7 +134,7 @@
         </div>
       </div>
 	   <div class="item">
-        <img src="gargi.jpg" alt="gargi hostel" width="460" height="345">
+        <img src="../static/img/gargi.jpg" alt="gargi hostel" width="460" height="345">
         <div class="carousel-caption">
           <h3>Gargi Hostel</h3>
           <p>*This hostel accomodate second year students <br>
@@ -167,9 +142,7 @@
 		  *Basket ball court inside<br>
           *High speed LAN network		  </p>
         </div>
-  
     </div>
-
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#about_hostels" role="button">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -181,7 +154,6 @@
     </a>
   </div>
 </div>
-
 <script>
 $(document).ready(function(){
     // Activate Carousel
@@ -215,6 +187,5 @@ $(document).ready(function(){
     });
 });
 </script>
-
 </body>
 </html>
