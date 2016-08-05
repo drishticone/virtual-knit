@@ -60,7 +60,7 @@
     	<div class="col-md-3">
     		<h2>ICAM-2015</h2>
     		<img src="..\static\img\conferences.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
-    		<<div style="color:black;">>
+    		<div style="color:black;">
             <p>
                 The International Conference on Advanced and Agile Manufacturing ICAM-2015 was held at KNIT, Sultanpur, U.P., India during 28th -29th December, 2015
 
@@ -109,7 +109,7 @@
     		<h2>Cultural council</h2>
     		<img src="..\static\img\cult.jpg" alt="Pulpit Rock" style="width:100%;height:25em" class="img-thumbnail">
     		<div style="color:black;">
-            <p>This Quiz was organised by Literary Council on 13th of march 2016</p>
+            <p>Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakira in you? Do these lines excite you “Bade bade shehron mein aisi chhoti chhoti batein…….”.Do you feel your voice can allure the audience ?then cultural council is your new home .</p>
     		</div>
             </img>
     </div>
@@ -121,7 +121,7 @@
     		<h2>Sports council</h2>
     		<img src="..\static\img\sports.jpg" alt="Pulpit Rock" style="width:100%;height:25em" class="img-thumbnail">
     		<div style="color:black;">
-            <p>This Quiz was organised by Literary Council on 13th of march 2016</p>
+            <p>This council is an initiative taken by the college for the all round development of the students. This council uplifts the interest of students towards various indoor and outdoor games and athletics.</p>
     		</div>
             </img>
     </div>
@@ -131,7 +131,7 @@
     		<h2>Hobby Club</h2>
     		<img src="..\static\img\hobbyclub.jpg" alt="Pulpit Rock" style="width:100%;height:25em" class="img-thumbnail">
             <div style="color:black;">
-            <p>This Quiz was organised by Literary Council on 13th of march 2016</p>
+            <p>If a man has a talent and learns somehow to use the whole of it, he has gloriously succeeded, and won a satisfaction and a triumph few men ever know.' Hobby Club in KNIT proves this adage.</p>
     		</div>
             </img>
     </div>
@@ -189,6 +189,90 @@
     <div class="col-md-1">
     </div>
     </div>
+    <!------------------------------------------------------------End of Forums-------------------------------->
+       <div class="row" style="background:#ffffe6;color:#80003e;">
+        <h1>Departments</h1>
+        <div class="col-md-3">
+            <h2>Department of Applied Sciences & Humanities</h2>
+            <img src="..\static\img\applied.jpg" alt="Tvaran" style="width:100%;height:20em" class="img-thumbnail">
+              <div style="color:black;">
+              <p>
+The Applied Sciences and Humanities Department is an allied department which serves as a bedrock for the engineering departments of the Institute. The department takes care of core subjects like Mathematics, Physics, Chemistry and Professional communications. The department has competent and knowledgeable faculty and well equipped laboratories.
+                </div>
+               </p>
+            </img>
+        </div>
+         <div class="col-md-3">
+
+            <h2>Department of Civil Engineering</h2>
+            <img src="..\static\img\Civil.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+
+                <div style="color:black;">
+                    <p>The Civil Engineering Department is one of the oldest departments of the institute. The department has a well qualified faculty and technical supporting staff. The department offers U.G. as well as P.G. (FullTime) and P.G. (PartTime) courses. All the laboratories of the department are well equipped with modern equipments. The department has acquired state of the art equipments through World Bank assisted TEQIP programme.
+</p>
+
+                </div>
+            </img>
+        </div>
+        <div class="col-md-3">
+            <h2>Department of Electrical Engineering</h2>
+            <img src="..\static\img\electrical.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+
+              <div style="color:black;">
+            <p>The Electrical Engineering Department is also one of the oldest departments of the Institute. The department has a well qualified faculty and technical supporting staff. All the laboratories of the department are well equipped with modern equipments. </p>
+              </div>
+            </img>
+        </div>
+        <div class="col-md-3">
+            <h2>Department of Electronics Engineering</h2>
+            <img src="..\static\img\electronics.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+
+            <div style="color:black;">
+            <p>The Electronics Engineering Department offers both U.G. and P.G. (PartTime) courses. It has a well qualified faculty and technical supporting staff. All the laboratories of the department are well equipped with modern equipments. The department has also acquired stateoftheart equipments through World Bank assisted TEQIP programme.
+
+</p>
+            </div>
+            </img>
+        </div>
+    </div>
+    <div class="row" style="background:#ffffe6;color:#80003e;">
+        <div class="col-md-3">
+            <h2>Department of Mechanical Engineering</h2>
+            <img src="..\static\img\mechanical.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+            <div style="color:black;">
+            <p>The Mechanical Engineering Department is among the oldest departments of the Institute. The department has a well qualified faculty and technical supporting staff. All the laboratories of the department are well equipped with modern equipments. The department offers U.G. as well as P.G. (FullTime) and P.G. (PartTime) courses. The department has acquired state of the art equipments through World Bank assisted TEQIP programme.</p>
+            </div>
+            </img>
+        </div>
+        <div class="col-md-3">
+            <h2>Department of Computer Science & Engineering (includes M.CA. and Information Technology)</h2>
+            <img src="..\static\img\computer.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+            <div style="color:black;">
+            <p>
+               Computer Science & Engineering Department is the largest department of the Institute. It offers B.Tech. (Computer Science. & Engineering), B.Tech. (Information Technology) and MCA programmes. The Department is well equipped with high end computers, latest software & state of the art IT infrastructure.
+            </p>
+            </div>
+
+            </img>
+        </div>
+        <div class="col-md-3">
+            <h2>Workshop</h2>
+            <img src="..\static\img\workshop.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+            <div style="color:black;">
+            <p>he workshop of the Institute sprawls over a large area having Fitting, Carpentry, Blacksmith, Welding, Foundry, Sheet Metal and Sand Testing Shops. Besides above, the workshop has an excellent Machine Shop with various kinds of stateoftheart machines of industry standards including the EDM.</p>
+            </div>
+            </img>
+        </div>
+        <div class="col-md-3">
+            <h2>Central Library</h2>
+            <img src="..\static\img\central.jpg" alt="Pulpit Rock" style="width:100%;height:20em" class="img-thumbnail">
+            <div style="color:black;">
+            <p>Library is the soul of any professional institute. All the departments have also their own departmental libraries. The Central Library of the Institute is spacious, well equipped and fully automated. Presently it has around 50000 books consisting both of Indian and Foreign authors and bound journal volumes.</p>
+            </div>
+            </img>
+        </div>
+      </div>
+    <!------------------------------------------------------------Insert New Row here ---------------------------------------------------------------------->
     </div>
     </div>
     </div>
