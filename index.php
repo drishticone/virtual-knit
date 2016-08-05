@@ -1,18 +1,15 @@
 <?php
 require 'header.php'
 ?>
-<div  style="background-color:#ff1744;">
-  <div class="jumbotron imga" >
-    <div class="container ">
+<div  style="background-color:#00b0ff;">
+  <div class="jumbotron imga"style="color:white; width:100%;" >
+    <div class="container "style="color:white; width:100%;">
       <h1>Virtual knit</h1>
       <p>Hi friends if you want to know about knit then you are at right place. Here we are telling all information what you want and
         what is nessesary  for you. so just see below discription
       </p>
     </div>
   </div>
-<div class=" ima">
- <img src="static/img/14086963521.jpg" class="img-responsive" alt="Responsive image"style="width:100%;height:600px;">
-</div>
 <div class="container-fluid">
   <!-- Example row of columns -->
   <div class="row">
