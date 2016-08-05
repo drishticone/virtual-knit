@@ -1,6 +1,6 @@
 # virtual-knit
 ### would be hosted on
-[drishticone.org](www.drishticone.org)
+[drishticone.org](http://www.drishticone.org)
 >What is it ?
 
 Virtual-KNIT is a campus guide of Kamla Nehru Institute of Technology, Sultanpur. We provide information regarding academics, extra curricular activities, hostels, college life and other important topics. Our mission is to provide information to those who need it.
