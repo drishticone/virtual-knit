@@ -9,5 +9,13 @@ background-color:black;
 
 }
 .imga{
-     background-image: url("static/img/14086963521.jpg");
+     background-image: url("http://schoolbook.getmyuni.com/assets/images/rev_img/15663__3188/14591793981_new.jpg");
+     height:50em;
+     width:100;
+     color:white;
+opacity:0.9;
+}
+*{
+
+    font-family: 'Expletus Sans', cursive;
 }
