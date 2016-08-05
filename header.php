@@ -13,6 +13,7 @@
     <meta property="og:description"        content="Know about KNIT Sultanpur" />
     <meta property="og:image"              content="http://www.drishticone.org/virtual-knit/img/knit/jpg" />
     <link rel="icon" href="../../favicon.ico">
+	<link rel="stylesheet" href="static/css/style.css">
     <title></title>
   </head>
   <body>
