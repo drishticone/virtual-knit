@@ -7,6 +7,11 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="know about KNIT Sultanpur">
     <meta name="author" content="ankit,vivek,mayank,ayush">
+    <meta property="og:url"                content="http://www.drishticone.org/virtual-knit/" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Virtual Knit" />
+    <meta property="og:description"        content="Know about KNIT Sultanpur" />
+    <meta property="og:image"              content="http://www.drishticone.org/virtual-knit/img/knit/jpg" />
     <link rel="icon" href="../../favicon.ico">
     <title></title>
   </head>
