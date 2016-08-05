@@ -1,24 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .fot{
 font: bold 16px sans-serif;
 
@@ -28,5 +8,6 @@ color:white;
 background-color:black;
 
 }
-
-
+.imga{
+     background-image: url("static/img/14086963521.jpg");
+}
