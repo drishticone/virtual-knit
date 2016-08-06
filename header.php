@@ -26,7 +26,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/about_college" >Abut college</a></li>
+            <li><a href="/about_college" >About college</a></li>
             <li><a href="/about_hostel">About hostel</a></li>
             <li><a href="http://drishticone.org/student_activity/">Student activity</a></li>
             <li><a href="/how_to_reach">How to reach</a></li>
