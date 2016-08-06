@@ -1,4 +1,4 @@
-# virtual-knit
+#VIRTUAL-KNIT
 ### would be hosted on
 [drishticone.org](http://www.drishticone.org)
 >What is it ?

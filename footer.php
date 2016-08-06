@@ -11,8 +11,7 @@
 					<a href="/how_to_reach"  style="margin:7px;color:white;">how to reach</a>
 				</p>
 			</div>
-			<div class="col-md-4" > here you can know know about knit duniya  if you want to know about our college then you will not have to go any where
-				you just come here  and get you get all information.	   </div>
+			<div class="col-md-4" > Here you can know about KNIT duniya,if you want to know about our college then you will not have to go anywhere else just come here  and get you get all informations.	   </div>
 				<div class="col-md-4">
 					<p class="">
 						<span></span>
