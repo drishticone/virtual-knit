@@ -223,7 +223,7 @@
     </div>
     </div>
     <!------------------------------------------------------------End of Forums-------------------------------->
-     <div class="row" style="background:#ECECEA;color:#404040; margin: 0px 0px 0px 150px;">
+     <div class="row" style="background:#ECECEA;color:#404040; margin: 0px 0px 0px 5%;">
         <br><br><br><br><br><br><br>
         <h2><b><center>Departments</b></center></h2>
         <br><br>
@@ -277,7 +277,7 @@ The Applied Sciences and Humanities Department is an allied department which ser
             <br><br><br><br>>
         </div>
     </div>
-    <div class="row" style="background:#ECECEA;color:#404040; margin: 0px 0px 0px 150px;">
+    <div class="row" style="background:#ECECEA;color:#404040; margin: 0px 0px 0px 5%;">
         <div class="col-md-2">
             <h3>Department of Mechanical Engineering</h3>
             <img src="..\static\img\mechanical.jpg" alt="Pulpit Rock" style="width:100%;height:15em" class="img-thumbnail">
