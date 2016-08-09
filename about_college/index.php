@@ -235,7 +235,6 @@
 The Applied Sciences and Humanities Department is an allied department which serves as a bedrock for the engineering departments of the Institute. The department takes care of core subjects like Mathematics, Physics, Chemistry and Professional communications. The department has competent and knowledgeable faculty and well equipped laboratories.
                 </div>
                </p>
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -249,7 +248,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
 </p>
 
                 </div>
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -260,7 +258,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
               <div style="color:black;">
             <p style="color:black;font-size:15px;">The Electrical Engineering Department is also one of the oldest departments of the Institute. The department has a well qualified faculty and technical supporting staff. All the laboratories of the department are well equipped with modern equipments. </p>
               </div>
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -273,7 +270,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
 
 </p>
             </div>
-            </img>
             <br><br><br><br>>
         </div>
     </div>
@@ -284,7 +280,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
             <div style="color:black;">
             <p style="color:black;font-size:15px;">The Mechanical Engineering Department is among the oldest departments of the Institute. The department has a well qualified faculty and technical supporting staff. All the laboratories of the department are well equipped with modern equipments. The department offers U.G. as well as P.G. (FullTime) and P.G. (PartTime) courses. The department has acquired state of the art equipments through World Bank assisted TEQIP programme.</p>
             </div>
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -296,8 +291,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
                Computer Science & Engineering Department is the largest department of the Institute. It offers B.Tech. (Computer Science. & Engineering), B.Tech. (Information Technology) and MCA programmes. The Department is well equipped with high end computers, latest software & state of the art IT infrastructure.
             </p>
             </div>
-
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -307,7 +300,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
             <div style="color:black;">
             <p style="color:black;font-size:15px;">he workshop of the Institute sprawls over a large area having Fitting, Carpentry, Blacksmith, Welding, Foundry, Sheet Metal and Sand Testing Shops. Besides above, the workshop has an excellent Machine Shop with various kinds of stateoftheart machines of industry standards including the EDM.</p>
             </div>
-            </img>
         </div>
         <div class="col-md-1">
         </div>
@@ -317,7 +309,6 @@ The Applied Sciences and Humanities Department is an allied department which ser
             <div style="color:black;">
             <p style="color:black;font-size:15px;">Library is the soul of any professional institute. All the departments have also their own departmental libraries. The Central Library of the Institute is spacious, well equipped and fully automated. Presently it has around 50000 books consisting both of Indian and Foreign authors and bound journal volumes.</p>
             </div>
-            </img>
         </div>
       </div>
     <!------------------------------------------------------------Insert New Row here ---------------------------------------------------------------------->
